@@ -1,0 +1,8 @@
+prefix=/home/dian/ros_wkspace_asgn2/install
+
+Name: urdfdom_py
+Description: Description of urdfdom_py
+Version: 0.3.3
+Cflags: 
+Libs: -L/home/dian/ros_wkspace_asgn2/install/lib 
+Requires: 
