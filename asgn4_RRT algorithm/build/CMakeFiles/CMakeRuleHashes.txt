@@ -1,5 +1,0 @@
-# Hashes of file build rules.
-0d476b25ee6c54bf1c3877780e11401b CMakeFiles/clean_test_results
-acfa516a9ddef56dad0e8422bdd653a3 assignment4/urdf_parser_py/CMakeFiles/_run_tests_urdfdom_py_nosetests_test.test_urdf.py
-4894ab20f9e919227ccc0e6de0af845e assignment4/urdf_parser_py/CMakeFiles/clean_test_results_urdfdom_py
-acfa516a9ddef56dad0e8422bdd653a3 assignment4/urdf_parser_py/CMakeFiles/run_tests_urdfdom_py_nosetests_test.test_urdf.py
