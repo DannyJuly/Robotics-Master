@@ -1,10 +1,5 @@
 # Project 5 | Motion Planning I
 
-```
-$ roslaunch motion_planning mp.launch
-$ rosrun motion_planning motion_planning.py
-```
-Right click on RViz > Run grader
 
 ## Description
 
